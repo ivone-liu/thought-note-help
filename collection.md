@@ -8,23 +8,27 @@
 
 创建Collection时，你可以选择对应的颜色，即你可以通过一组颜色来标记Collection所归属的大类，每个大类下面都会存在相关联的知识仓库。同时，你也可以选择你喜欢的emoji作为collection的名称，便于视觉性的识别。
 
-
+![新笔记本](./assets/new_collection.png)
 
 在选中某个collection之后，笔记内容会切换到相应的知识仓库，会默认按照增加笔记的时间由近及远地展示你所记录的笔记。同时，在笔记编辑器中默认选中新笔记的所要写入的collection。
 
-
+![笔记本笔记](./assets/collection.png)
 
 #### web端如何创建一个Collection
 
 在界面的左侧，找到`笔记本`，然后点击旁边的`+`，就会弹出一个输入基础信息的弹窗。
 
-
+![新笔记本](./assets/create_button.png)
 
 #### web端如何修改Collection信息
 
 定位到你刚刚创建的Collection，鼠标移上去之后，右侧会出现`...`，点击`...`就会出现编辑选项，点击`编辑`，就会弹出跟创建时一样的弹窗，默认已经显示需要修改的Collection信息，跟创建时一样，将你要修改的信息设置到对应位置，点击保存即可。
 
+![笔记编辑](./assets/collection_edit_1.png)
 
+![笔记编辑](./assets/collection_edit_2.png)
+
+![笔记编辑](./assets/collection_edit_3.png)
 
 #### web端如何删除我的Collection
 
@@ -32,9 +36,7 @@
 
 当你选择删除时，会提示你是要删除笔记还是将笔记移动到其他Collection中。删除笔记，会将Collection下的笔记全部移到废纸篓中。移动笔记则会把全部笔记移动到选择的Collection中。当笔记得到妥善处理后，方能删除Collection。
 
-
-
-
+![笔记编辑](./assets/collection_del.png)
 
 
 
