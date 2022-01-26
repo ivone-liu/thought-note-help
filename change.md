@@ -20,11 +20,7 @@
 
 关键词+[空格]
 
-
-
-[![7O8BZ9.gif](https://s4.ax1x.com/2022/01/26/7O8BZ9.gif)](https://imgtu.com/i/7O8BZ9)
-
-
+<video id="video" controls="" preload="none" src="https://stor-assets.fang-cun.net/keyword.mov"> 
 
 
 
