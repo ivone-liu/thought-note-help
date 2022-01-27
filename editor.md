@@ -6,7 +6,10 @@
 
 基础的文字编辑包括：加粗、下划线、有序和无序列表的文字操作。
 
+emoji是便于在内容中添加一些活泼因素。
+
 ![emoji](./assets/editor_emoji.png)
 
-![collection](./assets/editor_collection.png)
+在编辑笔记时，可以选择笔记的存储笔记本空间。
 
+![collection](./assets/editor_collection.png)

@@ -14,18 +14,15 @@
 
 
 
-使用方法
+**使用方法**
 
 在输入关键词之后，用空格键来表示确认进行关键词的替换，如果不加空格，默认不做关键词替换处理。
 
-关键词+[空格]
+```html
+关键词+[空格] = 替换词
+```
 
 <video id="video" controls="" preload="none" src="https://stor-assets.fang-cun.net/keyword.mov"> 
-
-
-
-
-
 
 
 
