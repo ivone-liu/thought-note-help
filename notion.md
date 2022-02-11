@@ -76,7 +76,9 @@ https://boom-neon-09c.notion.site/655f3380e64a4fe098fc8d27fd68e4b3?v=a459b7d92f7
 
 ![binded](./assets/notion_sync3.png)
 
-后续在已经同步的笔记本中增加笔记，都会实时同步到Notion中，请放心使用，如有问题和建议，可以加群联系我们。
+后续在已经同步的笔记本中增加笔记，都会实时同步到Notion中。如果你想增加同步的笔记本，可以在账户信息中重新授权notion，在授权时增加要同步的笔记本，方寸笔迹就能同步啦。
+
+请放心使用，如有问题和建议，可以加群联系我们。
 
 ![wx_group](./assets/group.png)
 
