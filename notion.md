@@ -1,4 +1,4 @@
-### Notion同步
+## Notion同步
 
 注意：[Notion官方API](https://developers.notion.com/)仍处于beta版本，因此可能会出现一定程度的不稳定波动。
 
@@ -6,7 +6,7 @@
 
 如果你习惯在Notion中管理笔记，我们基于Notion官方提供的API开发了方寸笔迹与Notion的实时同步功能，你可以使用方寸笔迹中喜欢的功能，同时在方寸笔迹中新增的笔记，也会实时同步到Notion中。
 
-*目前Notion仅提供非历史笔记的同步，对笔记的修改，也会作为一条新笔记同步到Notion中。*
+*目前Notion仅提供非[历史笔记](./history.md)的同步，对[笔记](./note.md)的修改，也会作为一条新笔记同步到Notion中。*
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-**1️⃣ 第一步**
+### 1️⃣ 第一步
 
 登录[网页版Notion](https://www.notion.so/zh-cn)，将方寸笔迹官方提供的[模板](https://boom-neon-09c.notion.site/655f3380e64a4fe098fc8d27fd68e4b3?v=a459b7d92f794ab085ee758f80f348c8)，复制到你的Notion笔记库中，并且可以重新命名为你喜欢的名字。
 
@@ -32,7 +32,7 @@ https://boom-neon-09c.notion.site/655f3380e64a4fe098fc8d27fd68e4b3?v=a459b7d92f7
 
 
 
-**2️⃣ 第二步**
+### 2️⃣ 第二步
 
 在方寸笔迹 - 账户信息中，找到授权Notion的按钮，并点击。
 
@@ -54,7 +54,7 @@ https://boom-neon-09c.notion.site/655f3380e64a4fe098fc8d27fd68e4b3?v=a459b7d92f7
 
 
 
-**3️⃣ 第三步**
+### 3️⃣ 第三步
 
 第二步操作结束后，会跳转回方寸笔迹的账户中心界面，方寸笔迹可能要花几秒钟时间来与Notion通信，产生与Notion笔记本的绑定关系，绑定成功后会有提示。
 
@@ -62,7 +62,7 @@ https://boom-neon-09c.notion.site/655f3380e64a4fe098fc8d27fd68e4b3?v=a459b7d92f7
 
 
 
-**4️⃣ 第四步**
+### 4️⃣ 第四步
 
 回到笔记的主界面，找到你想同步的笔记本，选择`同步Notion`
 
@@ -72,7 +72,7 @@ https://boom-neon-09c.notion.site/655f3380e64a4fe098fc8d27fd68e4b3?v=a459b7d92f7
 
 
 
-**🎉🎉 完成**
+### 🎉🎉 完成
 
 笔记现在已经在同步的进程中了，可能会有些许延迟，请耐心等待~
 
