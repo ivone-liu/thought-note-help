@@ -6,6 +6,10 @@
 
 其中笔记的格式与内容，跟直接写笔记的方式和语法一致，没有针对API进行额外的笔记负担。
 
+![process_1](./assets/notion_bind_procress1.png)
+
+![process_1](./assets/api.png)
+
 
 
 ### 使用方法

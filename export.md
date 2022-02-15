@@ -6,5 +6,9 @@
 
 
 
+![process_1](./assets/notion_bind_procress1.png)
+
+![process_1](./assets/export.png)
+
 
 
