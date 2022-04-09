@@ -22,7 +22,7 @@
 关键词+[空格] = 替换词
 ```
 
-<video id="video" controls="" preload="none" src="https://stor-assets.fang-cun.net/keyword.mov"> 
+<video id="video" controls="" preload="none" src="https://stor-assets.fang-cun.net/keyword.mov"> </video>
 
 
 
