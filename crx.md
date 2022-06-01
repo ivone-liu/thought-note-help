@@ -8,6 +8,14 @@
 
 
 
+### 插件下载地址
+
+谷歌（Chrome）浏览器：[Chrome商店](https://chrome.google.com/webstore/detail/%E6%96%B9%E5%AF%B8%E7%AC%94%E8%BF%B9/emgapmdponfmhmacdhbgpkmhmjngkmbb?hl=zh) / [本地下载](https://stor-client.fang-cun.net/crx/thought-note-lastest.crx)
+
+微软Edge浏览器：[Edge商店](https://microsoftedge.microsoft.com/addons/detail/%E6%96%B9%E5%AF%B8%E7%AC%94%E8%BF%B9/iakoddhdjjjfehmcggnhonlhfncckoen?hl=zh-CN) / [本地下载](https://stor-client.fang-cun.net/crx/thought-note-lastest.crx)
+
+
+
 ### 谷歌(Chrome)浏览器安装方法
 
 **第一步**
